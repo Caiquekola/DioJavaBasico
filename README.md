@@ -1,3 +1,3 @@
-# -dio-java-basico
+# DioJavaBasico
 
 Alterando o conteudo de um arquivo localmente
